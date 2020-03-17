@@ -1,0 +1,25 @@
+{
+	"description": "CodeIgniter 3 setup",
+	"name": "kubi/cisetup",
+	"type": "project",
+	"license": "MIT",
+	"support": {
+		"source": "https://github.com/kubi-codes/Codeigniter-Bootstrap"
+	},
+	"require": {
+		"php": ">=5.3.7"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsstream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	},
+	"authors": [
+		{
+			"name": "Bilkis Ismail",
+			"email": "bilkisismail07@gmail.com"
+		}
+	]
+}
